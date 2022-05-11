@@ -1,0 +1,4 @@
+.vscode
+publish
+webAPI/bin
+webAPI.test/bin
